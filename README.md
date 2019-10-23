@@ -23,7 +23,7 @@ Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov. "DeViSE: A Deep Visual-Sema
 
 # 2009
 
-+  **DAP(conf):** Christoph H. Lampert, Hannes Nickisch, Stefan Harmeling. "Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer." CVPR (2009). [[pdf]](http://openaccess.thecvf.com/content_iccv_2013/papers/Elhoseiny_Write_a_Classifier_2013_ICCV_paper.pdf)
++  **DAP(conf):** Christoph H. Lampert, Hannes Nickisch, Stefan Harmeling. "Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer." CVPR (2009). [[pdf]](http://openaccess.thecvf.com/content_iccv_2013/papers/Elhoseiny_Write_a_Classifier_2013_ICCV_paper.pdf) [Notes](./notes.md#DAP(conf))
 
 +  **aPaY:** Ali Farhadi, Ian Endres, Derek Hoiem, David Forsyth. "Describing Objects by their Attributes." CVPR (2009). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.9539&rep=rep1&type=pdf)
 
