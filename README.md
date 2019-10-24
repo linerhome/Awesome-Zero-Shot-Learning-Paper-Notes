@@ -67,10 +67,10 @@ Zero-Shot Visual Object Categorization." PAMI (2014). [[pdf]](https://ieeexplore
 +  **CONSE:** Mohammad Norouzi∗, Tomas Mikolov, Samy Bengio, Yoram Singer, Jonathon Shlens, Andrea Frome, Greg S. Corrado, Jeffrey Dean. "Zero-Shot Learning by Convex Combination of Semantic Embeddings." ICLR (2014). [[pdf]](https://arxiv.org/pdf/1312.5650.pdf)
 
 # 2013
-+  **DeViSE:** Andrea Frome*, Greg S. Corrado*, Jonathon Shlens*, Samy Bengio
++  **DeViSE:** Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio
 Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov. "DeViSE: A Deep Visual-Semantic Embedding Model." NIPS (2013). [[pdf]](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 
-+  **DeViSE:** Andrea Frome*, Greg S. Corrado*, Jonathon Shlens*, Samy Bengio
++  **DeViSE:** Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio
 Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov. "DeViSE: A Deep Visual-Semantic Embedding Model." NIPS (2013). [[pdf]](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 
 +  **ALE(conf):** Zeynep Akata, Florent Perronnina, Zaid Harchaouib and Cordelia Schmidb. "Label-Embedding for Attribute-Based Classification." CVPR (2013). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.pdf)
@@ -87,4 +87,4 @@ Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov. "DeViSE: A Deep Visual-Sema
 
 # 2008
 
-+  Hugo Larochelle and Dumitru Erhan and Yoshua Bengio. "Zero-data Learning of New Tasks." AAAI (2008). [[pdf]](https://www.aaai.org/Papers/AAAI/2008/AAAI08-103.pdf) [Notes](./notes/Zero-data Learning of New Tasks.md)
++  Hugo Larochelle and Dumitru Erhan and Yoshua Bengio. "Zero-data Learning of New Tasks." AAAI (2008). [[pdf]](https://www.aaai.org/Papers/AAAI/2008/AAAI08-103.pdf) [Notes](./notes/Zero_data_Learning_of_New_Tasks.md)
