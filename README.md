@@ -3,35 +3,35 @@
 
 # 2019
 
-+  **CADA-VAE:** Edgar Schonfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]] (https://arxiv.org/pdf/1812.01784.pdf)
++  **CADA-VAE:** Edgar Schonfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1812.01784.pdf)
 
-+  Haofeng Zhang , Yang Long, Yu Guan , and Ling Shao. "Triple Verification Network for Generalized Zero-Shot Learning." TIP (2019). [[pdf]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8464092&tag=1)
++  Haofeng Zhang , Yang Long, Yu Guan , and Ling Shao. "Triple Verification Network for Generalized Zero-Shot Learning." TIP (2019). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8464092&tag=1)
 
-+  **GBD(journal):** Yongqin Xian, Christoph H. Lampert, Bernt Schiele,  Zeynep Akata. "Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly." PAMI (2019). [[pdf]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8413121)
++  **GBD(journal):** Yongqin Xian, Christoph H. Lampert, Bernt Schiele,  Zeynep Akata. "Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly." PAMI (2019). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8413121)
 
-+  **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele1, Zeynep Akata. "f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning." PAMI (2019). [[pdf]] (http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
++  **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele1, Zeynep Akata. "f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning." PAMI (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
 
-+  **LisGAN:** Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [[pdf]] (https://arxiv.org/pdf/1904.04092.pdf)
++  **LisGAN:** Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04092.pdf)
 
-+  **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]] (http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf)
++  **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf)
 
 # 2018
 
-+  **GAZSL:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng and Ahmed Elgammal1. "A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts." CVPR (2018). [[pdf]] (http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)
++  **GAZSL:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng and Ahmed Elgammal1. "A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts." CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)
 
 +  **f-CLSWGAN:** Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning
-." CVPR (2018). [[pdf]] (https://arxiv.org/pdf/1712.00981.pdf)
+." CVPR (2018). [[pdf]](https://arxiv.org/pdf/1712.00981.pdf)
 
 +  **cycle-CLSWGAN:** Rafael Felix, Vijay Kumar B G, Ian Reid, Gustavo Carneiro. "Multi-modal Cycle-consistent Generalized
-Zero-Shot Learning." ECCV (2018). [[pdf]] (http://openaccess.thecvf.com/content_ECCV_2018/papers/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.pdf)
+Zero-Shot Learning." ECCV (2018). [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.pdf)
 
 +  **ML-ZSL:** Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang. "Generalized Zero-Shot Learning via Synthesized Examples
-" CVPR (2018). [[pdf]] (http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+" CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
-+  **SE-ZSL:** Vinay Kumar Verma1, Gundeep Arora1, Ashish Mishra and Piyush Rai. "Multi-Label Zero-Shot Learning with Structured Knowledge Graphs." CVPR (2018). [[pdf]] (http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)
++  **SE-ZSL:** Vinay Kumar Verma1, Gundeep Arora1, Ashish Mishra and Piyush Rai. "Multi-Label Zero-Shot Learning with Structured Knowledge Graphs." CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
 +  **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, and Michael I. Jordan]. "Generalized Zero-Shot Learning with Deep
-Calibration Network." NIPS (2018). [[pdf]] (http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
+Calibration Network." NIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
 
 # 2017
 
@@ -40,7 +40,7 @@ Calibration Network." NIPS (2018). [[pdf]] (http://papers.nips.cc/paper/7471-gen
 +  Mohamed Elhoseiny, Yizhe Zhu, Han Zhang, and Ahmed Elgammal. "Link the head to the “beak”: Zero Shot Learning from Noisy Text Description at Part Precision." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Elhoseiny_Link_the_Head_CVPR_2017_paper.pdf)
 
 +  **DEM:** Li Zhang Tao Xiang Shaogang Gong
-. "Learning a Deep Embedding Model for Zero-Shot Learning." CVPR (2017). [[pdf]] (https://arxiv.org/pdf/1611.05088.pdf)
+. "Learning a Deep Embedding Model for Zero-Shot Learning." CVPR (2017). [[pdf]](https://arxiv.org/pdf/1611.05088.pdf)
 
 # 2016
 
