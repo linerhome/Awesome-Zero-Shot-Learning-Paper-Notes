@@ -1,4 +1,4 @@
-**Zero-data Learning of New Tasks** 
+# Zero-data Learning of New Tasks
 
 This is one of the most early ZSL papers, introducing the problem of zero-data(zero-shot) learning. A general formalization of zero-shot learning in this paper is well-defined.                                 
 
