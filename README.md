@@ -87,4 +87,4 @@ Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov. "DeViSE: A Deep Visual-Sema
 
 # 2008
 
-+  Hugo Larochelle and Dumitru Erhan and Yoshua Bengio. "Zero-data Learning of New Tasks." AAAI (2008). [[pdf]](https://www.aaai.org/Papers/AAAI/2008/AAAI08-103.pdf) [Notes](./notes.md#Zero-data)
++  Hugo Larochelle and Dumitru Erhan and Yoshua Bengio. "Zero-data Learning of New Tasks." AAAI (2008). [[pdf]](https://www.aaai.org/Papers/AAAI/2008/AAAI08-103.pdf) [Notes](./notes/Zero-data Learning of New Tasks.md)
