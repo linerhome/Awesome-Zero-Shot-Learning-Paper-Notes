@@ -35,7 +35,7 @@ Calibration Network." NIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-gene
 
 # 2017
 
-+  **SAE:** Elyor Kodirov Tao Xiang Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]] (http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)
++  **SAE:** Elyor Kodirov Tao Xiang Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)
 
 +  Mohamed Elhoseiny, Yizhe Zhu, Han Zhang, and Ahmed Elgammal. "Link the head to the “beak”: Zero Shot Learning from Noisy Text Description at Part Precision." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Elhoseiny_Link_the_Head_CVPR_2017_paper.pdf)
 
