@@ -57,7 +57,9 @@ Calibration Network." NIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-gene
 
 +  **ESZSL:** Bernardino Romera-Paredes and Philip H. S. Torr, "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf)
 
-+  **SJE:** Zeynep Akata∗, Scott Reed†, Daniel Walter†, Honglak Lee† and Bernt Schiele, "Evaluation of Output Embeddings for Fine-Grained Image Classification." CVPR (2015). [[pdf]](https://arxiv.org/pdf/1409.8403.pdf)
++  **SJE:** Zeynep Akata, Scott Reed, Daniel Walter, Honglak Lee and Bernt Schiele, "Evaluation of Output Embeddings for Fine-Grained Image Classification." CVPR (2015). [[pdf]](https://arxiv.org/pdf/1409.8403.pdf)
+
++  Yanwei Fu, Timothy M. Hospedales, Tao Xiang and Shaogang Gong, "Transductive Multi-view Zero-Shot Learning." PAMI (2015). [[pdf]](https://arxiv.org/pdf/1501.04560.pdf) [Notes](./notes/Transductive_Multi_view_Zero_Shot_Learning.md)
 
 # 2014
 
