@@ -1,7 +1,7 @@
 # Zero-shot-Learning-Papers
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-**Note** This repo is only for summarizing my own understanding of some interesting ZSL papers, maybe not so awesome ( the name is for fun :laughing: )
+**Note** This repo is only for summarizing my own understanding of some interesting ZSL papers, maybe not so awesome. ( the name is just for fun :laughing: )
 
 # 2019
 
