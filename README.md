@@ -1,4 +1,4 @@
-# Zero-shot-Learning-Papers
+# Zero-shot Learning Papers
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 **Note** This repo is only for summarizing my own understanding of some interesting ZSL papers, maybe not so awesome.
@@ -36,6 +36,9 @@ Zero-Shot Learning." ECCV (2018). [[pdf]](http://openaccess.thecvf.com/content_E
 
 +  **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, and Michael I. Jordan]. "Generalized Zero-Shot Learning with Deep
 Calibration Network." NIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
+
++ **SGA** Yunlong Yu, Zhong Ji, Yanwei Fu, Jichang Guo, Yanwei Pang, Zhongfei Zhang. "Stacked Semantic-Guided Attention Model for Fine-Grained Zero-Shot Learning." NIPS (2018). [[pdf]](https://arxiv.org/pdf/1805.08113.pdf)
+
 
 # 2017
 
