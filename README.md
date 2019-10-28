@@ -13,7 +13,7 @@
 
 +  **GBD(journal):** Yongqin Xian, Christoph H. Lampert, Bernt Schiele,  Zeynep Akata. "Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly." PAMI (2019). [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8413121)
 
-+  **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele1, Zeynep Akata. "f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning." PAMI (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
++  **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele1, Zeynep Akata. "f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
 
 +  **LisGAN:** Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04092.pdf)
 
